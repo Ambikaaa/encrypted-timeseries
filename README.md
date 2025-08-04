@@ -136,7 +136,7 @@ PASS_KEY = "RANDOM_STRING"
 #### Listener Service
 
 ```
-PORT  = 3000
+PORT = 3000
 PASS_KEY = "RANDOM_STRING"
 DATABASE_HOST = host
 DATABASE_USERNAME = username
