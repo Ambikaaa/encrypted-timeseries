@@ -176,7 +176,7 @@ Note: You can install [concurrently](https://www.npmjs.com/package/concurrently)
 
 ### For Example (Listener on Dev)
 
-```
+```json
     "emitter": "node src/app.js --prefix emitter-service",
     "listener": "node src/app.js",
     "client": "npm run start --prefix client",
